@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CountVowelsConsonants {
 
-    // Method to count vowels and consonants
+    // method to count vowels and consonants
     public static int[] countVowelsAndConsonants(String text) {
         int vowels = 0;
         int consonants = 0;
