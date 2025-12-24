@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class PrimeNumberChecker {
 
-    // method to check whether a number is prime
+    // method to check whether a number is prime or not
     public static boolean isPrime(int number) {
 
         // numbers less than or equal to 1 are not prime
