@@ -10,7 +10,7 @@ public class MaximumOfThreeNumbers {
         return input.nextInt();
     }
 
-    // method to find maximum of three numbers
+    // method to find maximum of three numbers by input
     public static int findMaximum(int a, int b, int c) {
         int max = a;
 
