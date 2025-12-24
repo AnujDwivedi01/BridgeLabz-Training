@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class NumberGuessingGame {
 
-    // method to generate a random guess between given range
+    // method to generate a random guess between given range of numbers
     public static int generateGuess(int low, int high) {
         Random random = new Random();
         return random.nextInt(high - low + 1) + low;
