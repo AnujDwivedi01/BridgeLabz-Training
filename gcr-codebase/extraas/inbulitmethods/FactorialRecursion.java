@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class FactorialRecursion {
 
-    // recursive method to calculate factorial
+    // recursive method to calculate factorial of a number
     public static long factorial(int number) {
 
         
