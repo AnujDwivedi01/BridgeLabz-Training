@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class RemoveDuplicates {
 
-    // Method to remove duplicates
+    // method to remove duplicates
     public static String removeDuplicates(String text) {
         String result = "";
 
