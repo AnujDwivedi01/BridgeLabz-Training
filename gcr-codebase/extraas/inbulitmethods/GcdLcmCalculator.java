@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class GcdLcmCalculator {
 
-    // method to calculate GCD using Euclidean Algorithm
+    // method to calculate GCD using Euclidean Algorithm for calculation
     public static int calculateGCD(int a, int b) {
 
         // Ensure positive values
