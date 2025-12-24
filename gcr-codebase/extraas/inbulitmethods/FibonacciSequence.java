@@ -2,9 +2,9 @@
 
 import java.util.Scanner;
 
-public class FibonacciSequence {
+public class FibonacciSequence  {
 
-    // method to generate and print Fibonacci sequence
+    // method to generate and print Fibonacci sequence  of a number
     public static void generateFibonacci(int terms) {
 
         int first = 0;
