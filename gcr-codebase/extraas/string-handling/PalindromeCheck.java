@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class PalindromeCheck {
 
-    // Method to check palindrome
+    // method to check palindrome
     public static boolean isPalindrome(String text) {
         int start = 0;
         int end = text.length() - 1;
