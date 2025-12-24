@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class PalindromeChecker {
 
-    // method to check if a string is palindrome
+    // method to check if a string is palindrome or not
     public static boolean isPalindrome(String text) {
 
         int start = 0;
