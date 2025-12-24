@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LongestWord {
 
-    // Method to find longest word
+    // method to find longest word
     public static String findLongestWord(String sentence) {
         String[] words = sentence.split(" ");
         String longest = words[0];
