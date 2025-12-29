@@ -1,3 +1,5 @@
+// Java program ti calculate BMI by 2D array
+
 import java.util.Scanner;
 
 public class BMICalculation2D {
