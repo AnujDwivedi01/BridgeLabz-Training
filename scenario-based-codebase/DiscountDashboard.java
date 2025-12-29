@@ -62,6 +62,6 @@ public class DiscountDashboard{
 		 }
 		 System.out.println("Total Bill for the items are "+totalBill);
 		 
-		 
+		 input.close();
 	 }
 }
