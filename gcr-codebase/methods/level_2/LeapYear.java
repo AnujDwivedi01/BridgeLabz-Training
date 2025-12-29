@@ -28,7 +28,10 @@ public class LeapYear {
             return;
         }
 
-        // Calling method to check leap year
+        // Calling
+
+
+		method to check leap year
         boolean isLeap = isLeapYear(year);
 
         // Display result
