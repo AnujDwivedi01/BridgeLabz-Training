@@ -199,4 +199,84 @@ BridgeLabz-Training
 👉 [Day 8– Extras & Advanced Practice ](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extraas)
 
 
+## 📅 Day 11 – Core Java: Scenario-Based Problem Solving ##
+
+***(Date: 29-Dec-2025)***
+*(Focus: Arrays, Loops, Menu Logic & Real-World Scenarios)*
+
+-> Solved 5 scenario-based Core Java problems focusing on array handling and loop-based logic.
+
+-> Used arrays with for-loops to store and process week-based data such as temperatures and activity counts.
+
+-> Implemented switch-case menus combined with while loops for continuous user interaction.
+
+-> Applied for-each loops to calculate totals and averages in a clean and readable manner.
+
+-> Practiced using if conditions for comparisons, validations, and fine calculations.
+
+-> Used break and continue statements to control loop execution based on real-world conditions.
+
+-> Focused on writing clean, modular, and well-structured Java code with meaningful variable names.
+
+-> Followed consistent naming conventions, indentation, and logical flow across all programs.
+
+-> Organized all scenario-based programs systematically in the project structure.
+
+✅ Problems Covered
+
+- > Parking Lot Gate System
+
+- >Number Guesssing game
+
+- >Shopkeeper Discount Dashboard
+
+- >School bus attendance System
+
+- >Phone Recharge Simulator
+
+
+🔗 Code Link:  
+👉 [Day 11 –  Scenario-Based Core Java Programs](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
+## 📅 Day 12 – Core Java: Scenario-Based Problem Solving ##
+
+***(Date: 30-Dec-2025)***
+*(Focus: Arrays, Loops, Menu Logic & Real-World Scenarios)*
+
+-> Solved 5 scenario-based Core Java problems focusing on array handling and loop-based logic.
+
+-> Used arrays with for-loops to store and process week-based data such as temperatures and activity counts.
+
+-> Implemented switch-case menus combined with while loops for continuous user interaction.
+
+-> Applied for-each loops to calculate totals and averages in a clean and readable manner.
+
+-> Practiced using if conditions for comparisons, validations, and fine calculations.
+
+-> Used break and continue statements to control loop execution based on real-world conditions.
+
+-> Focused on writing clean, modular, and well-structured Java code with meaningful variable names.
+
+-> Followed consistent naming conventions, indentation, and logical flow across all programs.
+
+-> Organized all scenario-based programs systematically in the project structure.
+
+✅ Problems Covered
+
+- > Temperature Logger 🌡️
+
+- >Train Reservation Queue 🚆
+
+- >Sandeep’s Fitness Challenge Tracker 🏋️
+
+- >Movie Ticket Booking App 🎬
+
+- >Rohan’s Library Reminder App 📚
+
+
+🔗 Code Link:  
+👉 [Day 12 –  Scenario-Based Core Java Programs](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+
 
