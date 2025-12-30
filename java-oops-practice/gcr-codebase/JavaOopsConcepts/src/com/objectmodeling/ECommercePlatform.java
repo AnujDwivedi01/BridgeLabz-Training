@@ -1,5 +1,6 @@
 package com.objectmodeling;
 
+// Product class
 class Product {
 
     private String productName;
@@ -15,6 +16,7 @@ class Product {
     }
 }
 
+// Order class
 class Order {
 
     private int orderId;
@@ -36,12 +38,14 @@ class Order {
         }
     }
 }
-class Customer {
+
+
+class ECommerceCustomer {
 
     private String customerName;
     private Order order;
 
-    public Customer(String customerName) {
+    public ECommerceCustomer(String customerName) {
         this.customerName = customerName;
     }
 
@@ -55,23 +59,21 @@ class Customer {
     }
 }
 
-
-
+// Main class
 public class ECommercePlatform {
-	
-	 public static void main(String[] args) {
 
-	        Customer customer = new Customer("Amit");
+    public static void main(String[] args) {
 
-	        Product product1 = new Product("Laptop", 55000);
-	        Product product2 = new Product("Mouse", 500);
+        ECommerceCustomer customer = new ECommerceCustomer("Amit");
 
-	        Order order = new Order(101);
-	        order.addProduct(product1);
-	        order.addProduct(product2);
+        Product product1 = new Product("Laptop", 55000);
+        Product product2 = new Product("Mouse", 500);
 
-	        customer.placeOrder(order);
-	        customer.showOrders();
-	    }
+        Order order = new Order(101);
+        order.addProduct(product1);
+        order.addProduct(product2);
 
+        customer.placeOrder(order);
+        customer.showOrders();
+    }
 }
