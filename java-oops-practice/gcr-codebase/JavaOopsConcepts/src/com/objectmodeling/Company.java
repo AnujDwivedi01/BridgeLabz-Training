@@ -50,7 +50,7 @@ import java.util.ArrayList;
 // class company
 public class Company {
 	 private String companyName;
-	 private ArrayList<Department> departments;
+	 private ArrayList <Department> departments;
 
 	    public Company(String companyName) {
 	        this.companyName = companyName;
@@ -70,7 +70,7 @@ public class Company {
 	        }
 	    }
 
-	    // MAIN METHOD
+	    
 	    public static void main(String[] args) {
 
 	        // Create company
@@ -93,7 +93,7 @@ public class Company {
 	        // Display full company structure
 	        company.displayCompany();
 
-	        // Deleting company (composition behavior)
+	        // Deleting company 
 	        company = null;
 
 	        System.out.println("\nCompany deleted. All departments and employees are removed.");
