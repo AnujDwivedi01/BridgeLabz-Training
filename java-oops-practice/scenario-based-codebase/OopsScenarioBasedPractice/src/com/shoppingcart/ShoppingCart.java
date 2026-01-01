@@ -3,7 +3,7 @@ package com.shoppingcart;
 
 class ShoppingCart {
 
- // Composition: CartItem objects exist only inside ShoppingCart
+ //  CartItem objects exist only inside ShoppingCart
  private CartItem[] items = new CartItem[10];
  private int count = 0;
 
