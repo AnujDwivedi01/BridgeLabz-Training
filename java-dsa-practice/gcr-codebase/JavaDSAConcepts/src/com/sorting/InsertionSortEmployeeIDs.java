@@ -8,7 +8,7 @@ public class InsertionSortEmployeeIDs {
 
         int n = ids.length;
 
-        // Insertion Sort logic
+        // Insertion Sort    logic
         for (int i = 1; i < n; i++) {
 
             int key = ids[i];
