@@ -315,8 +315,39 @@ Organized all constructor and static concept programs systematically in the java
 -> Emphasized clean, readable OOPS-based code and organized all programs in the java-oops-practice branch.
 
 🔗 Code Link:
-👉 [Day 1 – Inheritance](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+👉 [Day 13 – Inheritance](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
+
+## 📅 Day 14 – Java OOPS: Scenario-Based Design & Core OOPS Concepts
+
+*(Date: 01-Jan-2026)*
+(Focus: Encapsulation, Polymorphism, Abstract Classes & Interfaces)
+
+-> Worked on multiple scenario-based OOPS problems by applying object-oriented design principles to real-world use cases.
+
+-> Implemented Encapsulation to safeguard data through private variables and controlled access methods.
+
+-> Gained clarity on Polymorphism by using common method signatures with different implementations across classes.
+
+-> Practiced designing and using abstract classes to define shared behavior with partial implementations.
+
+-> Implemented interfaces to establish standard contracts followed by multiple implementing classes.
+
+-> Followed a systematic approach to scenario solving, including understanding requirements, identifying entities and relationships, and designing classes, methods, constructors, and access modifiers.
+
+-> Applied inheritance, interfaces, and polymorphism wherever suitable based on the scenario.
+
+-> Chose appropriate data structures according to problem requirements.
+
+
+-> Focused on writing clean, modular, readable, and maintainable Java OOPS code.
+
+-> Maintained consistent naming conventions, indentation, and logical structure.
+
+-> Organized all scenario-based OOPS solutions in the java-oops-practice branch.
+
+🔗 Code Link:
+👉 [Day 13 – Core OOPS Concepts](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oopspillars)
 
 
 
