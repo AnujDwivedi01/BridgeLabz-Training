@@ -128,3 +128,39 @@ Organized all constructor and static-related programs in the java-oops-practice 
 👉 [Day 13 – Inheritance](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 
+ ## 📅 Day 14 – Java OOPS: Scenario-Based Design & Core OOPS Concepts ##
+
+(Date: 01-Jan-2026)
+(Focus: Encapsulation, Polymorphism, Abstract Classes & Interfaces)
+
+-> Solved 4 scenario-based OOPS problems by applying real-world object-oriented design principles.
+
+-> Learned and implemented Encapsulation to protect data using private variables and controlled access methods.
+
+-> Understood Polymorphism by using common method names with different implementations across classes.
+
+-> Practiced using abstract classes to define shared behavior with partial implementation.
+
+-> Implemented interfaces to define standard contracts followed by multiple classes.
+
+-> Followed a structured scenario-solving approach, including:
+
+Understanding the problem story and constraints
+
+Identifying entities, responsibilities, and relationships
+
+Designing classes, methods, constructors, and access modifiers
+
+-> Applied inheritance, interfaces, and polymorphism wherever applicable.
+
+-> Used appropriate data structures based on scenario requirements.
+
+-> Focused on writing clean, modular, readable, and maintainable OOPS-based Java code.
+
+-> Followed consistent naming conventions, indentation, and logical structure.
+
+-> Organized all scenario-based OOPS programs systematically in the java-oops-practice branch.
+
+🔗 Code Link: 
+👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
