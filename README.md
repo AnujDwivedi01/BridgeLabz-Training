@@ -166,3 +166,21 @@ Designing classes, methods, constructors, and access modifiers
 
 🔗 Code Link: 
 👉 [Day 14 – Java OOPS Concepts – Encapsulation, Polymorphism, Abstract Classes & Interfaces](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oopspillars)
+
+## 📅 Day 15 – Java OOPS: Scenario-Based Practice
+
+(Date: 02-Jan-2026)
+(Focus: Encapsulation, Inheritance, Abstraction, Polymorphism)
+
+-> Solved real-world, scenario-based problems to strengthen core OOPS concepts.
+
+-> Implemented systems for hospital management, vehicle rental, course enrollment, e-wallet operations, and smart home automation using classes, interfaces, and inheritance.
+
+-> Applied encapsulation to protect sensitive data, abstraction to hide internal logic, and polymorphism to handle different behaviors.
+
+-> Used operators for calculations such as billing, rent, GPA, transactions, and energy usage.
+
+-> Followed clean coding practices and organized all solutions in the java-oops-practice branch.
+
+🔗 Code Link: 
+👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
