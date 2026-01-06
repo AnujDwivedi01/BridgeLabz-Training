@@ -62,4 +62,24 @@ Circular Linked List – last node links back to the first node forming a loop.
 - >Organized all Stack, Queue, and Hashing programs systematically in the DSA practice branch.
 
 🔗 Code Link:
-[👉 Day 16 – Stack, Queue & Hashing (DSA)](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue)
+[👉 Day 16 – Stack, Queue  (DSA)](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue)
+🔗 Code Link:
+[👉 Day 16 –  Hashing (DSA)](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmap)
+
+## 📅 Day 17 – Data Structures & Algorithms: Sorting Techniques
+
+*(Date: 05-01-2026)*
+(Focus: Sorting Algorithms – Bubble, Selection, Insertion, Merge, Quick, Heap, Counting)
+
+-> Studied and implemented fundamental sorting algorithms including Bubble Sort, Selection Sort, and Insertion Sort.
+
+-> Learned advanced sorting techniques such as Merge Sort, Quick Sort, Heap Sort, and Counting Sort.
+
+-> Understood the working principles, time complexity, and use cases of each sorting algorithm.
+
+-> Practiced sorting programs in Java to analyze performance differences between comparison-based and non-comparison-based sorts.
+
+-> Followed clean coding standards and organized all sorting-related programs in the DSA practice branch.
+
+🔗 Code Link:
+[👉 Day 17 - Sorting Algorithms (DSA)](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
