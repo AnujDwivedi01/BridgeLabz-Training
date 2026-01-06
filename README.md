@@ -184,3 +184,19 @@ Designing classes, methods, constructors, and access modifiers
 
 🔗 Code Link: 
 👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+## 📅 Day 16 – Java OOPS: Application-Based Practice
+
+(Date: 03-Jan-2026)
+(Focus: Encapsulation, Inheritance, Abstraction, Polymorphism)
+
+-> Implemented CabbyGo Ride-Hailing Application, applying interfaces, inheritance, polymorphism, and fare calculation using operators.
+
+-> Developed MyBank Customer Account System to manage accounts, transactions, and interest calculations with proper encapsulation and access control.
+
+-> Used constructors for object initialization, interfaces for abstraction, and polymorphism for varying business logic.
+
+-> Followed clean OOPS design principles and organized solutions in the java-oops-practice branch.
+
+🔗 Code Link: 
+👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
