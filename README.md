@@ -46,3 +46,24 @@ BridgeLabz-Training
 
 🔗 Code Link:  
 👉 [Day 2 – Basic Java Programs](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
+
+## 📅 Day 3 – Java Programming Basics
+
+*(Date: 17-Dec-2025)*
+
+Learned core Java programming components:
+
+Variables and different data types
+
+Various operators
+
+Handling user input and output
+
+Practiced and solved problems related to programming fundamentals.
+
+Successfully committed and pushed the completed work to the repository.
+
+🔗 Code Link:  
+👉 [Day 3 – Java Programming Elements](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+
