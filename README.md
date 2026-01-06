@@ -134,6 +134,44 @@ BridgeLabz-Training
 👉 [Day 6 – Java Methods](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 
+## 📅 Day 7– Java Strings 
+*(Date: 22-Dec-2025)*
+
+- Worked on *Java String concepts* and operations.
+- Practice problems were divided into *three levels*, focusing on:
+  - String creation and comparison
+  - Character-level operations
+  - Logical string-based problems
+
+- Added a new *strings* folder inside gcr-codebase.
+
+## 📁 Updated Directory Structure
+
+```
+BridgeLabz-Training
+│
+├── core-java-practice
+│   │
+│   ├── gcr-codebase
+│   │   ├── programming-elements
+│   │   ├── control-flow
+│   │   ├── arrays
+│   │   ├── methods
+│   │   ├── strings
+│   │   └── program-prerequisite
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+└── README.md
+```
+
+🔗 Code Link:  
+👉 [Day 7 – Java Strings](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
+
+
+
 
 
 
