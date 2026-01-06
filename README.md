@@ -200,3 +200,19 @@ Designing classes, methods, constructors, and access modifiers
 
 🔗 Code Link: 
 👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+## 📅 Day 17 – Java OOPS: Application-Based Practice
+
+(Date: 05-Jan-2026)
+(Focus: Encapsulation, Inheritance, Abstraction, Polymorphism)
+
+-> Implemented CampusConnect – College Information System, using inheritance for Person, Student, and Faculty, interfaces for course actions, and polymorphism for role-specific details.
+
+-> Developed SwiftCart – Grocery Shopping App, handling products, cart management, billing, and discounts using interfaces, inheritance, and polymorphic behavior.
+
+-> Applied encapsulation to protect grades and pricing logic, and used operators for GPA, totals, and discounts.
+
+-> Followed clean OOPS design principles and organized all solutions in the java-oops-practice branch.
+
+🔗 Code Link: 
+👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
