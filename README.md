@@ -216,3 +216,21 @@ Designing classes, methods, constructors, and access modifiers
 
 🔗 Code Link: 
 👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+## 📅 Day 18 – Java OOPS: Advanced Application-Based Practice
+
+(Date: 06-Jan-2026)
+(Focus: Encapsulation, Inheritance, Abstraction, Polymorphism)
+
+-> Implemented EduMentor – Personalized Learning Platform, managing users, quizzes, scoring, and certificate generation using interfaces, encapsulation, and polymorphism.
+
+-> Developed FitTrack – Personal Fitness Tracker to monitor workouts, calorie targets, and progress using inheritance, interfaces, and operator-based calculations.
+
+-> Created PetPal – Virtual Pet Care App, applying inheritance for pet types, encapsulation for pet states, and polymorphism for unique behaviors.
+
+-> Built EventEase – Event Management Platform to handle event scheduling, cost calculation, and role-based behavior using interfaces and inheritance.
+
+-> Applied clean OOPS principles, secure data handling, and organized all implementations in the java-oops-practice branch.
+
+🔗 Code Link: 
+👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
