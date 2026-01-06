@@ -164,3 +164,5 @@ Designing classes, methods, constructors, and access modifiers
 🔗 Code Link: 
 👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
+🔗 Code Link: 
+👉 [Day 14 – Java OOPS Concepts – Encapsulation, Polymorphism, Abstract Classes & Interfaces](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oopspillars)
