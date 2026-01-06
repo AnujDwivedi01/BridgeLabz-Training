@@ -301,6 +301,24 @@ Organized all constructor and static concept programs systematically in the java
 🔗 Code Link:
 👉 [Day 12 – Data Modeling & Object Relationships](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
 
+## 📅 Day 13 – Java OOPS: Inheritance
+
+*(Date: 31-Dec-2025)*
+(Focus: Inheritance & Code Reusability in OOPS)
+
+-> Studied inheritance in Java to understand code reuse and parent–child class relationships.
+
+-> Practiced single, multilevel, and hierarchical inheritance using the extends keyword.
+
+-> Learned method overriding and the use of the super keyword for accessing parent class members.
+
+-> Emphasized clean, readable OOPS-based code and organized all programs in the java-oops-practice branch.
+
+🔗 Code Link:
+👉 [Day 1 – Inheritance](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+
+
 
 
 
