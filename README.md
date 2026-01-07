@@ -1,3 +1,5 @@
+# Week 1: Git, GitHub & Java Programming Fundamentals
+
 ## 📅 Day 1 – Git & GitHub Setup  
 *(Date: 15-Dec-2025)*
 
@@ -212,7 +214,66 @@ BridgeLabz-Training
 🔗 Code Link:  
 👉 [Day 8– Extras & Advanced Practice ](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extraas)
 
-## 📅 Day 9 – Java OOPS: Class & Object  
+# Day 9 – Core Java Scenario Based Problem Statements
+(Date: 24-Dec-2025)
+
+Overview
+Day 9 focuses on real-world scenario based programming using Core Java along with basic algorithmic problem solving using LeetCode.
+The goal of this day is to strengthen logical thinking, control flow, and problem-solving skills.
+
+Topics Covered
+if–else conditional statements
+switch case
+for-loop and while-loop
+ternary operator
+user input handling
+basic algorithmic thinking
+problem solving with constraints
+
+Scenario Based Problems Implemented
+# 1️⃣ Election Booth Manager 🗳️
+Description:
+A polling booth simulation where voter eligibility and voting are managed.
+
+Key Features:
+
+Takes age input from the user
+Checks voting eligibility (age ≥ 18)
+Records vote (1, 2, or 3 for candidates)
+Loop for multiple voters
+Exit using a special code
+Concepts Used:
+if, loops, decision making
+
+# 2️⃣ Metro Smart Card Fare Deduction 🚇
+Description:
+Simulates a metro smart card fare deduction system.
+
+Key Features:
+
+Accepts distance travelled
+Calculates fare using ternary operator
+Deducts fare from smart card balance
+Continues until balance is exhausted or user quits
+Concepts Used:
+ternary operator, loops, arithmetic operations
+
+# 3️⃣ Raj’s Result Generator 📊
+Description:
+A result generation system for a coaching center.
+
+Key Features:
+
+Inputs marks of 5 subjects
+Calculates average marks
+Assigns grades using switch
+Uses for-loop for subject iteration
+Concepts Used:
+for-loop, switch-case, calculations
+
+# Week 2 : Object Oriented Programming
+
+## 📅 Day 1 – Java OOPS: Class & Object  
 *(Date: 26-Dec-2025)*
 *(Focus: Core OOPS Fundamentals- class and objects )*
 
@@ -231,9 +292,9 @@ BridgeLabz-Training
 -Organized all Class & Object programs systematically in the java-oops-practice branch.
 
 🔗 Code Link: 
-👉 Day 9 – Class and Objects(https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+👉 Day 1 – Class and Objects(https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
-## 📅 Day 10 – Java OOPS: Constructors & Class-Level Concepts
+## 📅 Day 2 – Java OOPS: Constructors & Class-Level Concepts
 
 *(Date: 27-Dec-2025)*
 *(Focus: Constructors, Instance Variables vs Class Variables & Methods)*
@@ -257,9 +318,9 @@ Followed proper naming conventions, indentation, and consistent formatting acros
 Organized all constructor and static concept programs systematically in the java-oops-practice branch.
 
 🔗 Code Link:
-👉 [Day 10 – Constructors & Instance vs Class Concepts](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
+👉 [Day 2 – Constructors & Instance vs Class Concepts](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
 
-## 📅 Day 11 – Java OOPS: Core Java Keywords ##
+## 📅 Day 3 – Java OOPS: Core Java Keywords ##
 
 *(Date: 29-Dec-2025)*
 *(Focus: static, final, this, instanceof)*
@@ -283,9 +344,9 @@ Organized all constructor and static concept programs systematically in the java
 -> Organized all keyword-based programs systematically in the java-oops-practice branch.
 
 🔗 Code Link:
-👉 [Day 11 – static, final, this, instanceof](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords)
+👉 [Day 3 – static, final, this, instanceof](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords)
 
-## 📅 Day 12 – Java OOPS: Data Modeling & Object Relationships
+## 📅 Day 4 – Java OOPS: Data Modeling & Object Relationships
 
 *(Date: 30-Dec-2025)*
 (Focus: Data Modeling, Association, Aggregation & Composition)
@@ -299,9 +360,9 @@ Organized all constructor and static concept programs systematically in the java
 -> Focused on clean, modular code with proper naming conventions and formatting.
 
 🔗 Code Link:
-👉 [Day 12 – Data Modeling & Object Relationships](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+👉 [Day 4 – Data Modeling & Object Relationships](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
 
-## 📅 Day 13 – Java OOPS: Inheritance
+## 📅 Day 5 – Java OOPS: Inheritance
 
 *(Date: 31-Dec-2025)*
 (Focus: Inheritance & Code Reusability in OOPS)
@@ -315,10 +376,10 @@ Organized all constructor and static concept programs systematically in the java
 -> Emphasized clean, readable OOPS-based code and organized all programs in the java-oops-practice branch.
 
 🔗 Code Link:
-👉 [Day 13 – Inheritance](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+👉 [Day 5 – Inheritance](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 
-## 📅 Day 14 – Java OOPS: Scenario-Based Design & Core OOPS Concepts
+## 📅 Day 6 – Java OOPS: Scenario-Based Design & Core OOPS Concepts
 
 *(Date: 01-Jan-2026)*
 (Focus: Encapsulation, Polymorphism, Abstract Classes & Interfaces)
@@ -347,9 +408,9 @@ Organized all constructor and static concept programs systematically in the java
 -> Organized all scenario-based OOPS solutions in the java-oops-practice branch.
 
 🔗 Code Link:
-👉 [Day 14 – Core OOPS Concepts](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oopspillars)
+👉 [Day 6 – Core OOPS Concepts](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oopspillars)
 
-## 📅 Day 15 – Java OOPS: Scenario-Based Problem Solving
+## 📅 Day 7 – Java OOPS: Scenario-Based Problem Solving
 *(Date: 02-01-2026)*
 *(Focus: Applying OOPS Concepts through Real-World Scenarios)*
 - > Practiced real-world, story-driven Java problems to strengthen OOPS fundamentals.
@@ -373,41 +434,9 @@ Organized all constructor and static concept programs systematically in the java
 - >Focused on clean, modular, and reusable code, following proper naming conventions and OOPS best practices.
   
 🔗 Code Link:
-👉 [Day 15 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+👉 [Day 7 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
-## Data Structures & Algorithms: Linked List
-
-- > Learned the fundamentals of Data Structures and Algorithms (DSA) and their importance in efficient problem-solving.
-
-- > Understood how data structures help in organizing and managing data for optimized performance.
-
-- > Studied Linked List as a dynamic linear data structure that uses nodes instead of contiguous memory.
-  
-- > Learned the structure of a node containing data and references (links).
-
-- > Explored different types of Linked Lists:
-
-Singly Linked List – traversal in one direction using next reference.
-
-Doubly Linked List – traversal in both directions using previous and next references.
-
-Circular Linked List – last node links back to the first node forming a loop.
-
-- > Practiced implementing Linked Lists using Java classes and pointer-based logic.
-
-- > Gained clarity on insertion, deletion, traversal, and searching operations.
-
-- > Focused on writing clean, readable, and well-structured DSA-based code.
-
-- > Followed proper naming conventions, indentation, and consistent formatting.
-
-- > Organized all Linked List programs systematically in the DSA practice branch.
-
-🔗 Code Link:
-[👉 Day 15 – Linked List (DSA)](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
-
-
-## 📅 Day 16 – Java OOPS: Scenario-Based Problem Solving
+## 📅 Day 8 – Java OOPS: Scenario-Based Problem Solving
 
 *(Date: 03-01-2026)*
 *(Focus: Applying OOPS Concepts through Real-World Scenarios)*
@@ -433,40 +462,9 @@ Circular Linked List – last node links back to the first node forming a loop.
 - >Focused on writing clean, modular, and reusable code following industry-standard naming conventions and OOPS best practices.
 
 🔗 Code Link:
-👉 [Day 16 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+👉 [Day 8 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
-## Data Structures & Algorithms: Stack, Queue & Hashing
-- > Learned the fundamentals of Stack as a linear data structure that follows the LIFO (Last In, First Out) principle.
-
-- >Understood common Stack operations such as push, pop, peek, and isEmpty.
-
-- >Studied Queue as a linear data structure that follows the FIFO (First In, First Out) principle.
-
-- >Learned Queue operations including enqueue, dequeue, front, and rear.
-
-- >Explored different Queue implementations and real-world use cases.
-
-- >Studied Hashing as a technique to map data to fixed-size values for fast access.
-
-- >Understood how HashMap stores data in key–value pairs using hashing.
-
-- >Learned about hash functions, collision handling, and efficient searching.
-
-- >Practiced implementing Stack, Queue, and HashMap concepts using Java.
-
-- >Gained clarity on how these data structures improve time complexity and performance.
-
-- >Focused on writing clean, readable, and well-structured DSA-based code.
-
-- >Followed proper naming conventions, indentation, and consistent formatting.
-
-- >Organized all Stack, Queue, and Hashing programs systematically in the DSA practice branch.
-
-🔗 Code Link:
-[👉 Day 16 – Stack, Queue & Hashing (DSA)](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueue)
-
-
-## 📅 Day 17 – Java OOPS: Scenario-Based Problem Solving
+## 📅 Day 9 – Java OOPS: Scenario-Based Problem Solving
 *(Date: 05-01-2026)*
 *(Focus: Applying OOPS Concepts through Academic & E-Commerce Scenarios)*
 
@@ -491,32 +489,144 @@ Circular Linked List – last node links back to the first node forming a loop.
 - >Focused on writing clean, modular, and reusable code following OOPS principles and proper access control.
 
 🔗 Code Link:
-👉 [Day 17 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+👉 [Day 9 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
-## Data Structures & Algorithms: Sorting Techniques
-- >Studied the importance of sorting algorithms for organizing data efficiently and improving search performance.
+## 📅 Day 10 – Java OOPS: Scenario-Based Problem Solving
+(Date: 06-01-2026) (Focus: Real-World Application of OOPS Concepts)
 
-- >Learned Bubble Sort by repeatedly comparing adjacent elements and swapping them to sort data step by step.
+Practiced story-driven Java scenarios including PetPal, EventEase, EduMentor, and FitTrack.
 
-- >Understood Selection Sort, where the minimum element is selected and placed at the correct position in each iteration.
+Applied Encapsulation to protect sensitive data like pet mood, user health details, pricing, and quiz answers.
 
-- >Practiced Insertion Sort, inserting elements into their correct position in the already sorted part of the array.
+Used Inheritance to model hierarchies such as Dog/Cat/Bird, BirthdayEvent/ConferenceEvent, and Learner/Instructor.
 
-- >Explored Merge Sort using the divide-and-conquer approach to recursively split and merge arrays.
+Implemented Abstraction using interfaces like IInteractable, ISchedulable, ICertifiable, and ITrackable.
 
-- >Learned Quick Sort, selecting a pivot element and partitioning the array around the pivot.
+Demonstrated Polymorphism through varying behaviors like makeSound(), schedule(), generateCertificate(), and calculateCalories().
 
-- >Studied Counting Sort for sorting integers efficiently when the range of elements is limited.
+Focused on clean, modular, and reusable code following core OOPS best practices.
 
-- >Implemented Heap Sort using a binary heap data structure to repeatedly extract the maximum element.
+🔗 Code Link: 
+[👉 Day 10 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
-- >Compared sorting algorithms based on time complexity, space complexity, and stability.
+## 📅 Day 11 – Java OOPS: Scenario-Based Problem Solving
+(Date: 07-01-2026) (Focus: Real-World Application of OOPS Concepts)
 
-- >Focused on writing clean, optimized, and well-structured code following DSA best practices.
+Implemented real-world Java scenarios: ParkEase, LoanBuddy, and BookBazaar.
+
+Applied Encapsulation, Inheritance, Abstraction, and Polymorphism to model business logic.
+
+Used interfaces and operators for charges, EMI, and discount calculations.
+
+Focused on clean, modular, and reusable code with proper access control.
+
+🔗 Code Link: 
+[👉 Day 11 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+# Week 3: Data Structures & Algorithm
+## 📅 Day 1 – Data Structures & Algorithms: Linked List
+(Date: 02-01-2026) (Focus: DSA Fundamentals – Linked List Variants)
+
+Learned the fundamentals of Data Structures and Algorithms (DSA) and their importance in efficient problem-solving.
+
+Understood how data structures help in organizing and managing data for optimized performance.
+
+Studied Linked List as a dynamic linear data structure that uses nodes instead of contiguous memory.
+
+Learned the structure of a node containing data and references (links).
+
+Explored different types of Linked Lists:
+
+Singly Linked List – traversal in one direction using next reference.
+
+Doubly Linked List – traversal in both directions using previous and next references.
+
+Circular Linked List – last node links back to the first node forming a loop.
+
+Practiced implementing Linked Lists using Java classes and pointer-based logic.
+
+Gained clarity on insertion, deletion, traversal, and searching operations.
+
+Focused on writing clean, readable, and well-structured DSA-based code.
+
+Followed proper naming conventions, indentation, and consistent formatting.
+
+Organized all Linked List programs systematically in the DSA practice branch.
 
 🔗 Code Link:
-[👉 Day 17 – Data Structures & Algorithms: Sorting Techniques](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
+[👉 Day 1 – Linked List (DSA)](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
 
+## 📅 Day 2 – Data Structures & Algorithms: Stack, Queue & Hashing
+(Date: 03-01-2026) (Focus: DSA Fundamentals – Stack, Queue, HashMap & Hashing)
+
+Learned the fundamentals of Stack as a linear data structure that follows the LIFO (Last In, First Out) principle.
+
+Understood common Stack operations such as push, pop, peek, and isEmpty.
+
+Studied Queue as a linear data structure that follows the FIFO (First In, First Out) principle.
+
+Learned Queue operations including enqueue, dequeue, front, and rear.
+
+Explored different Queue implementations and real-world use cases.
+
+Studied Hashing as a technique to map data to fixed-size values for fast access.
+
+Understood how HashMap stores data in key–value pairs using hashing.
+
+Learned about hash functions, collision handling, and efficient searching.
+
+Practiced implementing Stack, Queue, and HashMap concepts using Java.
+
+Gained clarity on how these data structures improve time complexity and performance.
+
+Focused on writing clean, readable, and well-structured DSA-based code.
+
+Followed proper naming conventions, indentation, and consistent formatting.
+
+Organized all Stack, Queue, and Hashing programs systematically in the DSA practice branch.
+
+🔗 Code Link: 
+[👉 Day 2 – Stack, Queue & Hashing (DSA)](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmap)
+
+## 📅 Day 3 – Data Structures & Algorithms: Sorting Techniques
+(Date: 05-01-2026) (Sorting Techniques)
+
+Studied the importance of sorting algorithms for organizing data efficiently and improving search performance.
+
+Learned Bubble Sort by repeatedly comparing adjacent elements and swapping them to sort data step by step.
+
+Understood Selection Sort, where the minimum element is selected and placed at the correct position in each iteration.
+
+Practiced Insertion Sort, inserting elements into their correct position in the already sorted part of the array.
+
+Explored Merge Sort using the divide-and-conquer approach to recursively split and merge arrays.
+
+Learned Quick Sort, selecting a pivot element and partitioning the array around the pivot.
+
+Studied Counting Sort for sorting integers efficiently when the range of elements is limited.
+
+Implemented Heap Sort using a binary heap data structure to repeatedly extract the maximum element.
+
+Compared sorting algorithms based on time complexity, space complexity, and stability.
+
+Focused on writing clean, optimized, and well-structured code following DSA best practices.
+
+🔗 Code Link:
+[👉 Day 3 – Data Structures & Algorithms: Sorting Techniques](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
+
+## 📅 Day 4 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
+(Date: 06-01-2026) (Focus: String Handling, Searching & File Handling)
+
+Studied StringBuffer and StringBuilder to understand mutable string operations and performance differences.
+
+Learned searching techniques including linear search and binary search for efficient data retrieval.
+
+Practiced file handling using BufferedReader for reading data efficiently from files.
+
+Focused on writing clean, optimized, and readable Java code following core Java best practices.
+
+🔗 Code Link: 
+[👉 Day 4 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
 
 
 
