@@ -6,7 +6,7 @@ public class StringBufferVsStringBuilder {
 
 		int iterations = 1_000_000;
 
-		// -------- StringBuffer Test (Thread-safe, slower) --------
+		// -------- StringBuffer Test   (Thread-safe, slower) --------
 		StringBuffer stringBuffer = new StringBuffer();
 
 		long startBuffer = System.nanoTime();
