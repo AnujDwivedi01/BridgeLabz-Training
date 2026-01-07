@@ -1,4 +1,6 @@
-## 📅 Day 9 – Java OOPS: Class & Object
+# Week 2 : Object Oriented Programming
+
+## 📅 Day 1 – Java OOPS: Class & Object
 (Date: 26-Dec-2025)
 (Focus: Core OOPS Fundamentals – Classes and Objects)
 
@@ -16,9 +18,9 @@ Followed proper naming conventions, indentation, and consistent formatting.
 
 Systematically organized all Class & Object programs in the java-oops-practice branch.
 
-🔗 Code Link: 👉 Day 9 – Class and Objects(https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+🔗 Code Link: 👉 Day 1 – Class and Objects(https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
-## 📅 Day 10 – Java OOPS: Constructors & Class-Level Concepts
+## 📅 Day 2 – Java OOPS: Constructors & Class-Level Concepts
 
 (Date: 27-Dec-2025)
 (Focus: Constructors, Instance vs Class Variables & Methods)
@@ -40,10 +42,10 @@ Followed clean coding practices with proper naming, formatting, and indentation.
 Organized all constructor and static-related programs in the java-oops-practice branch.
 
 🔗 Code Link:
-👉 Day 10 – Constructors & Instance vs Class Concepts(https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
+👉 Day 2 – Constructors & Instance vs Class Concepts(https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
 
 
-## 📅 Day 11 – Java OOPS: Core Java Keywords ##
+## 📅 Day 3 – Java OOPS: Core Java Keywords ##
 
 **(Date: 29-Dec-2025)**
 **(Focus: static, final, this, instanceof)**
@@ -67,9 +69,9 @@ Organized all constructor and static-related programs in the java-oops-practice 
 -> Organized all keyword-based programs systematically in the java-oops-practice branch.
 
 🔗 *Code Link:*
-👉 [Day 11 – Java Keywords](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords)
+👉 [Day 3 – Java Keywords](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords)
 
-## 📅 Day 12 – Java OOPS: Data Modeling & Object Relationships ##
+## 📅 Day 4 – Java OOPS: Data Modeling & Object Relationships ##
 
 (Date: 30-Dec-2025)
 (Focus: Data Modeling, Association, Aggregation & Composition)
@@ -94,10 +96,11 @@ Organized all constructor and static-related programs in the java-oops-practice 
 
 -> Organized all data-modeling and relationship-based programs systematically in the java-oops-practice branch.
 
-🔗 Code Link: 👉 [Day 12 – Data Modeling, Association, Aggregation & Composition](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+🔗 Code Link:
+👉 [Day 4 – Data Modeling, Association, Aggregation & Composition](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
 
 
-## 📅 Day 13 – Java OOPS: Inheritance ##
+## 📅 Day 5 – Java OOPS: Inheritance ##
 
 (Date: 31-Dec-2025)
 (Focus: Inheritance & Code Reusability in OOPS)
@@ -125,10 +128,10 @@ Organized all constructor and static-related programs in the java-oops-practice 
 -> Organized all inheritance-based programs systematically in the java-oops-practice branch.
 
 🔗 Code Link:
-👉 [Day 13 – Inheritance](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+👉 [Day 5 – Inheritance](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 
- ## 📅 Day 14 – Java OOPS: Scenario-Based Design & Core OOPS Concepts ##
+ ## 📅 Day 6 – Java OOPS: Scenario-Based Design & Core OOPS Concepts ##
 
 (Date: 01-Jan-2026)
 (Focus: Encapsulation, Polymorphism, Abstract Classes & Interfaces)
@@ -162,12 +165,12 @@ Designing classes, methods, constructors, and access modifiers
 -> Organized all scenario-based OOPS programs systematically in the java-oops-practice branch.
 
 🔗 Code Link: 
-👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+👉 [Day 6 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
 🔗 Code Link: 
-👉 [Day 14 – Java OOPS Concepts – Encapsulation, Polymorphism, Abstract Classes & Interfaces](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oopspillars)
+👉 [Day 6 – Java OOPS Concepts – Encapsulation, Polymorphism, Abstract Classes & Interfaces](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oopspillars)
 
-## 📅 Day 15 – Java OOPS: Scenario-Based Practice
+## 📅 Day 7 – Java OOPS: Scenario-Based Practice
 
 (Date: 02-Jan-2026)
 (Focus: Encapsulation, Inheritance, Abstraction, Polymorphism)
@@ -183,9 +186,9 @@ Designing classes, methods, constructors, and access modifiers
 -> Followed clean coding practices and organized all solutions in the java-oops-practice branch.
 
 🔗 Code Link: 
-👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+👉 [Day 7 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
-## 📅 Day 16 – Java OOPS: Application-Based Practice
+## 📅 Day 8 – Java OOPS: Application-Based Practice
 
 (Date: 03-Jan-2026)
 (Focus: Encapsulation, Inheritance, Abstraction, Polymorphism)
@@ -199,9 +202,9 @@ Designing classes, methods, constructors, and access modifiers
 -> Followed clean OOPS design principles and organized solutions in the java-oops-practice branch.
 
 🔗 Code Link: 
-👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+👉 [Day 8 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
-## 📅 Day 17 – Java OOPS: Application-Based Practice
+## 📅 Day 9 – Java OOPS: Application-Based Practice
 
 (Date: 05-Jan-2026)
 (Focus: Encapsulation, Inheritance, Abstraction, Polymorphism)
@@ -215,9 +218,9 @@ Designing classes, methods, constructors, and access modifiers
 -> Followed clean OOPS design principles and organized all solutions in the java-oops-practice branch.
 
 🔗 Code Link: 
-👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+👉 [Day 9 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
-## 📅 Day 18 – Java OOPS: Advanced Application-Based Practice
+## 📅 Day 10 – Java OOPS: Advanced Application-Based Practice
 
 (Date: 06-Jan-2026)
 (Focus: Encapsulation, Inheritance, Abstraction, Polymorphism)
@@ -233,4 +236,18 @@ Designing classes, methods, constructors, and access modifiers
 -> Applied clean OOPS principles, secure data handling, and organized all implementations in the java-oops-practice branch.
 
 🔗 Code Link: 
-👉 [Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+👉 [Day 10 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+## 📅 Day 11 – Java OOPS: Scenario-Based Problem Solving
+(Date: 07-01-2026) (Focus: Real-World Application of OOPS Concepts)
+
+Implemented real-world Java scenarios: ParkEase, LoanBuddy, and BookBazaar.
+
+Applied Encapsulation, Inheritance, Abstraction, and Polymorphism to model business logic.
+
+Used interfaces and operators for charges, EMI, and discount calculations.
+
+Focused on clean, modular, and reusable code with proper access control.
+
+🔗 Code Link:
+[👉 Day 11 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
