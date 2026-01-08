@@ -251,3 +251,19 @@ Focused on clean, modular, and reusable code with proper access control.
 
 🔗 Code Link:
 [👉 Day 11 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+## 📅 Day 12 – Java OOPS: Advanced Scenario-Based Practice
+(Date: 08-01-2026) (Focus: Complex Domain Modeling & Business Logic)
+
+Implemented advanced real-world Java scenarios: MediStore (Pharmacy Management) and TourMate (Travel Planner).
+
+Applied Inheritance and Polymorphism to handle diverse categories like Tablet/Syrup (Medicine) and International/Domestic (Trips).
+
+Utilized Interfaces (ISellable, IBookable) to standardize sales, booking, and expiry tracking workflows.
+
+Used Operators for complex calculations: medicine stock adjustments, discount applications, and total trip budget aggregation (Transport + Hotel + Activities).
+
+Maintained strict Encapsulation to secure sensitive data like internal cost breakdowns and pricing logic.
+
+🔗 Code Link: 
+[👉 Day 12 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
