@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class FibonacciComparasion {
 
-	// Recursive Fibonacci method
+	// Recursive  method
 	// Time Complexity: O(2^N)
 	public static int fibonacciRecursive(int number) {
 
@@ -49,12 +49,12 @@ public class FibonacciComparasion {
 		System.out.print("Enter Fibonacci number (N): ");
 		int number = input.nextInt();
 
-		// Calculating Fibonacci using recursion
+		// Calculating  using recursion
 		long recursiveStartTime = System.nanoTime();
 		int recursiveResult = fibonacciRecursive(number);
 		long recursiveEndTime = System.nanoTime();
 
-		// Calculating Fibonacci using iteration
+		// Calculating  using iteration
 		long iterativeStartTime = System.nanoTime();
 		int iterativeResult = fibonacciIterative(number);
 		long iterativeEndTime = System.nanoTime();
