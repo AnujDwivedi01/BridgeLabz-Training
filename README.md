@@ -695,6 +695,20 @@ Simulated AmbulanceRoute using Circular Linked List for emergency navigation.
 🔗 Code Link: 
 [👉 Day 6 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
+## 📅 Day 7 – Data Structures: Scenario-Based Practice
+(Date: 11-01-2026) (Focus: Real-World Queue, Linked List & Stack Applications)
+
+Worked on real-world DSA scenarios using Queues, HashMaps, Doubly Linked Lists, and Stacks.
+
+Implemented CallCenter using Queue, Priority Queue, and HashMap to manage customer calls and VIP handling.
+
+Designed TrainCompanion with a Doubly Linked List to navigate, insert, and remove train compartments dynamically.
+
+Built TextEditor functionality using Stacks to support undo and redo operations efficiently.
+
+🔗 Code Link: 
+[👉 Day 7 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
 
 
 
