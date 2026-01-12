@@ -18,7 +18,7 @@ public class CallCenterApp {
         manager.handleNextCall();
         manager.handleNextCall();
         manager.handleNextCall();
-        manager.handleNextCall();
+        manager.handleNextCall(); // no calls waiting
 
         manager.displayCallCounts();
     }
