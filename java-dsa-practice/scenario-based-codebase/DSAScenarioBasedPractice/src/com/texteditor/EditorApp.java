@@ -18,7 +18,7 @@ public class EditorApp {
 
         editor.redo();
         editor.showContent();
-
+        
 
 	}
 
