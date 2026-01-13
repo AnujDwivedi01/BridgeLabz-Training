@@ -144,3 +144,18 @@ Built TextEditor functionality using Stacks to support undo and redo operations 
 
 🔗 Code Link:
 [👉 Day 7 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+## 📅 Day 8 – Data Structures: Scenario-Based Practice
+(Date: 13-01-2026) (Focus: Applying Queues, Linked Lists, Stacks & HashMaps)
+
+Worked on real-world DSA scenarios using Queue, HashMap, Stack, and Singly Linked List.
+
+Implemented SmartCheckout using Queue and HashMap for customer billing, price lookup, and stock updates.
+
+Designed ParcelTracker with a Singly Linked List to track parcel movement through delivery stages.
+
+Built ExamProctor using Stack and HashMap to record question navigation and evaluate answers using functions.
+
+🔗 Code Link:
+[👉 Day 8 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
