@@ -12,7 +12,7 @@ public class HomeNestApp {
 
         for (Device device : devices) {
             device.turnOn();
-            device.reset();   // polymorphism
+            device.reset();   
             System.out.println("Energy Used (2 hrs): "
                     + device.calculateEnergy(2));
             System.out.println();
