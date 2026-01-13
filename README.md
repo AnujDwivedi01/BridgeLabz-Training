@@ -557,6 +557,19 @@ Focused on clean, modular, and scalable OOPS-based design following real-world b
 🔗 Code Link: 
 [👉 Day 13 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
+## Day 14 – Java OOPS: Scenario-Based Practice
+(Date: 12-01-2026) (Focus: Real-World System Design Using OOPS)
+
+Worked on OOPS-based scenarios including HomeNest, BudgetWise, and GameBox.
+
+Applied Encapsulation, Inheritance, Abstraction, and Polymorphism to model smart devices, finance tracking, and game platforms.
+
+Used interfaces and operators for device control, financial analysis, and discount logic.
+
+Focused on clean, modular, and reusable code following OOPS best practices.
+
+🔗 Code Link:
+[👉 Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
 
 # Week 3: Data Structures & Algorithm
@@ -708,6 +721,20 @@ Built TextEditor functionality using Stacks to support undo and redo operations 
 
 🔗 Code Link: 
 [👉 Day 7 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+## 📅 Day 8 – Data Structures: Scenario-Based Practice
+(Date: 13-01-2026) (Focus: Applying Queues, Linked Lists, Stacks & HashMaps)
+
+Worked on real-world DSA scenarios using Queue, HashMap, Stack, and Singly Linked List.
+
+Implemented SmartCheckout using Queue and HashMap for customer billing, price lookup, and stock updates.
+
+Designed ParcelTracker with a Singly Linked List to track parcel movement through delivery stages.
+
+Built ExamProctor using Stack and HashMap to record question navigation and evaluate answers using functions.
+
+🔗 Code Link:
+[👉 Day 8 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
 
 
