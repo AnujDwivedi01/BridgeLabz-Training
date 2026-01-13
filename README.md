@@ -267,3 +267,36 @@ Maintained strict Encapsulation to secure sensitive data like internal cost brea
 
 🔗 Code Link: 
 [👉 Day 12 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+
+## 📅 Day 13 – Java OOPS: Scenario-Based Practice
+(Date: 09-01-2026) (Focus: Digital Platforms, Commerce & Learning Systems)
+
+Implemented real-world Java scenarios including Artify (Digital Art Marketplace), FoodLoop (Restaurant Ordering System), and SkillForge (Online Learning Portal).
+
+Applied Inheritance and Polymorphism to model variations such as DigitalArt/PrintArt, VegItem/NonVegItem, and Student/Instructor roles.
+
+Utilized Interfaces (IPurchasable, IOrderable, ICertifiable) to standardize purchasing, ordering, cancellation, and certification workflows.
+
+Used Operators for critical business calculations like wallet balance deduction, order total computation with discounts, and progress/grading evaluation.
+
+Maintained strong Encapsulation to protect sensitive data such as licensing terms, item stock levels, course ratings, and internal reviews.
+
+Focused on clean, modular, and scalable OOPS-based design following real-world business logic and best coding practices.
+
+🔗 Code Link:
+[👉 Day 13 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+📅 Day 14 – Java OOPS: Scenario-Based Practice
+(Date: 12-01-2026) (Focus: Real-World System Design Using OOPS)
+
+Worked on OOPS-based scenarios including HomeNest, BudgetWise, and GameBox.
+
+Applied Encapsulation, Inheritance, Abstraction, and Polymorphism to model smart devices, finance tracking, and game platforms.
+
+Used interfaces and operators for device control, financial analysis, and discount logic.
+
+Focused on clean, modular, and reusable code following OOPS best practices.
+
+🔗 Code Link:
+[👉 Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
