@@ -571,6 +571,20 @@ Focused on clean, modular, and reusable code following OOPS best practices.
 🔗 Code Link:
 [👉 Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
+## 📅 Day 15 – Java OOPS: Scenario-Based Practice
+(Date: 13-01-2026) (Focus: Real-World System Design Using OOPS)
+
+Worked on OOPS-based scenarios including PayXpress (Utility Bill Payment System) and Bird Sanctuary Management System.
+
+Applied Encapsulation, Inheritance, Abstraction, and Polymorphism to model bill payments, reminders, and diverse bird behaviors.
+
+Used interfaces and operators for payment processing, late fee calculation, and behavioral capabilities like flying and swimming.
+
+Focused on clean, modular, and reusable code following core Java OOPS best practices.
+
+🔗 Code Link: 
+[👉 Day 15 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
 
 # Week 3: Data Structures & Algorithm
 ## 📅 Day 1 – Data Structures & Algorithms: Linked List
@@ -735,6 +749,40 @@ Built ExamProctor using Stack and HashMap to record question navigation and eval
 
 🔗 Code Link:
 [👉 Day 8 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+## 📅 Day 9 – Data Structures & Algorithms: Scenario-Based Practice
+(Date: 15-01-2026) (Focus: Real-World Application of Sorting Algorithms)
+
+Worked on DSA-based scenarios using sorting algorithms such as Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort.
+
+Applied Bubble Sort for small datasets in HospitalQueue to sort patients by criticality efficiently and in-place.
+
+Used Insertion Sort in SmartShelf for real-time, nearly sorted data like dynamically added book titles.
+
+Implemented Merge Sort in ZipZipMart and ExamCell to handle large-scale, stable sorting and merging of records.
+
+Applied Quick Sort in EventManager for fast average-case performance on large, unsorted ticket price data.
+
+Focused on choosing the right sorting technique based on data size, order, and performance needs, following DSA best practices.
+
+🔗 Code Link: 
+[👉 Day 9 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+## 📅 Day 10 – Data Structures & Algorithms: Scenario-Based Practice
+(Date: 16-01-2026) (Focus: Practical Use of Sorting Algorithms in Real-Time Systems)
+
+Worked on DSA-based scenarios applying Insertion Sort, Bubble Sort, and Quick Sort in real-world contexts.
+
+Used Insertion Sort in RoboWarehouse to maintain a dynamically sorted list of package weights during continuous insertions.
+
+Applied Bubble Sort in CinemaHouse for sorting small sets of movie showtimes with simple and readable logic.
+
+Implemented Quick Sort in CropMonitor to efficiently sort large, unordered sensor data by timestamps.
+
+Focused on selecting sorting algorithms based on data size, insertion pattern, and performance requirements, following DSA best practices.
+
+🔗 Code Link: 
+[👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
 
 
