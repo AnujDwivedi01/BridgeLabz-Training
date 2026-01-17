@@ -159,7 +159,7 @@ Built ExamProctor using Stack and HashMap to record question navigation and eval
 🔗 Code Link:
 [👉 Day 8 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
-📅 Day 9 – Data Structures & Algorithms: Scenario-Based Practice
+## 📅 Day 9 – Data Structures & Algorithms: Scenario-Based Practice
 (Date: 15-01-2026) (Focus: Real-World Application of Sorting Algorithms)
 
 Worked on DSA-based scenarios using sorting algorithms such as Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort.
@@ -177,7 +177,7 @@ Focused on choosing the right sorting technique based on data size, order, and p
 🔗 Code Link: 
 [👉 Day 9 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
-📅 Day 10 – Data Structures & Algorithms: Scenario-Based Practice
+## 📅 Day 10 – Data Structures & Algorithms: Scenario-Based Practice
 (Date: 16-01-2026) (Focus: Practical Use of Sorting Algorithms in Real-Time Systems)
 
 Worked on DSA-based scenarios applying Insertion Sort, Bubble Sort, and Quick Sort in real-world contexts.
@@ -192,4 +192,21 @@ Focused on selecting sorting algorithms based on data size, insertion pattern, a
 
 🔗 Code Link: 
 [👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+## 📅 Day 10 – DSA Scenario-Based Practice
+Date: 17-01-2026
+
+Practiced real-world DSA scenarios focusing on selecting the right sorting algorithm based on data size and behavior.
+
+Used Bubble Sort in IceCreamRush for sorting a small list of ice cream flavors by sales.
+
+Applied Insertion Sort in SmartLibrary and ArtExpo for dynamic, nearly sorted data with real-time insertions.
+
+Implemented Merge Sort in FleetManager to merge sorted vehicle mileage lists from multiple depots efficiently.
+
+Focused on applying sorting techniques according to practical constraints and performance needs.
+
+🔗 Code Link: 
+[👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
 
