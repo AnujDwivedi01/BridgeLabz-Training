@@ -784,6 +784,36 @@ Focused on selecting sorting algorithms based on data size, insertion pattern, a
 🔗 Code Link: 
 [👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
+## 📅 Day 10 – DSA Scenario-Based Practice
+(Date: 17-01-2026)(Focus: Practical Use of Sorting Algorithms in Real-Time Systems)
+
+Practiced real-world DSA scenarios focusing on selecting the right sorting algorithm based on data size and behavior.
+
+Used Bubble Sort in IceCreamRush for sorting a small list of ice cream flavors by sales.
+
+Applied Insertion Sort in SmartLibrary and ArtExpo for dynamic, nearly sorted data with real-time insertions.
+
+Implemented Merge Sort in FleetManager to merge sorted vehicle mileage lists from multiple depots efficiently.
+
+Focused on applying sorting techniques according to practical constraints and performance needs.
+
+🔗 Code Link:
+[👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+# Week 4: Java Collections
+
+## 📅 Day 1 – Java Collections & Generics
+(Date: 17-01-2026)
+
+Practiced Java Collections and Generics by solving scenario-based problems using generic classes, bounded type parameters, generic methods, and wildcards.
+
+Implemented systems for warehouse management, online marketplace, university course handling, and meal plan generation, focusing on type safety, reusability, and clean code structure.
+
+Programs were organized under the Java Collections & Generics module.
+
+🔗 Code Link: 
+[👉 Day 1 – Java Collections & Generics Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/generics)
+
 
 
 
