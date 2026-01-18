@@ -1,4 +1,4 @@
-2package com.geomeasuresolution;
+package com.geomeasuresolution;
 
 import java.util.ArrayList;
 import java.util.List;
