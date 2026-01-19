@@ -287,7 +287,7 @@ Focused on clean, modular, and scalable OOPS-based design following real-world b
 🔗 Code Link:
 [👉 Day 13 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
-📅 Day 14 – Java OOPS: Scenario-Based Practice
+## 📅 Day 14 – Java OOPS: Scenario-Based Practice
 (Date: 12-01-2026) (Focus: Real-World System Design Using OOPS)
 
 Worked on OOPS-based scenarios including HomeNest, BudgetWise, and GameBox.
@@ -297,6 +297,20 @@ Applied Encapsulation, Inheritance, Abstraction, and Polymorphism to model smart
 Used interfaces and operators for device control, financial analysis, and discount logic.
 
 Focused on clean, modular, and reusable code following OOPS best practices.
+
+🔗 Code Link:
+[👉 Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+## 📅 Day 15 – OOP Scenario-Based Problems
+(Date: 19-January-2026)
+
+→ Worked on OOP scenario-based problems focusing on classes, objects, constructors, encapsulation, and method design.
+
+→ Implemented GeoMeasure Solutions – Line Comparison System to calculate and compare line lengths using encapsulated objects and constructors.
+
+→ Implemented Bag-n-Ball Organizer using composition to manage bags and balls with capacity constraints and safe data access.
+
+→ Strengthened understanding of real-world object modeling and clean OOP design.
 
 🔗 Code Link:
 [👉 Day 14 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
