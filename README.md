@@ -193,7 +193,7 @@ Focused on selecting sorting algorithms based on data size, insertion pattern, a
 🔗 Code Link: 
 [👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
-## 📅 Day 10 – DSA Scenario-Based Practice
+## 📅 Day 11 – DSA Scenario-Based Practice
 Date: 17-01-2026
 
 Practiced real-world DSA scenarios focusing on selecting the right sorting algorithm based on data size and behavior.
@@ -208,5 +208,18 @@ Focused on applying sorting techniques according to practical constraints and pe
 
 🔗 Code Link: 
 [👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+## 📅 Day 12 – DSA: Scenario-Based Sorting
+(Date: 19-January-2026)
+
+→ Solved scenario-based DSA problems using sorting algorithms.
+→ Implemented EduResults (Merge Sort) for stable rank list generation.
+→ Implemented FlashDealz (Quick Sort) for large-scale product sorting.
+→ Implemented FitnessTracker (Bubble Sort) for small, frequently updated rankings.
+→ Organized solutions in the DSA practice branch.
+
+🔗 Code Link: 
+[👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
 
 
