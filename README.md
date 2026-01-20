@@ -213,13 +213,29 @@ Focused on applying sorting techniques according to practical constraints and pe
 (Date: 19-January-2026)
 
 → Solved scenario-based DSA problems using sorting algorithms.
+
 → Implemented EduResults (Merge Sort) for stable rank list generation.
+
 → Implemented FlashDealz (Quick Sort) for large-scale product sorting.
+
 → Implemented FitnessTracker (Bubble Sort) for small, frequently updated rankings.
+
 → Organized solutions in the DSA practice branch.
 
 🔗 Code Link: 
 [👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
+## 📅 Day 13 – Data Structures: Sorting Algorithms
+(Date: 20-01-2026)
 
+Practiced Insertion Sort using MovieTime for real-time, nearly sorted showtime data.
+
+Applied Merge Sort in FoodFest to combine multiple sorted footfall records efficiently.
+
+Used Quick Sort in GamerZone to rank large, dynamic player score data quickly.
+
+Focused on choosing the right sorting algorithm based on data size and performance needs.
+
+🔗 Code Link: 
+[👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
