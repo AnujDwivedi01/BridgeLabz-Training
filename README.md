@@ -585,6 +585,21 @@ Focused on clean, modular, and reusable code following core Java OOPS best pract
 🔗 Code Link: 
 [👉 Day 15 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
+## 📅 Day 16 – OOP Scenario-Based Problems
+(Date: 19-January-2026)
+
+→ Worked on OOP scenario-based problems focusing on classes, objects, constructors, encapsulation, and method design.
+
+→ Implemented GeoMeasure Solutions – Line Comparison System to calculate and compare line lengths using encapsulated objects and constructors.
+
+→ Implemented Bag-n-Ball Organizer using composition to manage bags and balls with capacity constraints and safe data access.
+
+→ Strengthened understanding of real-world object modeling and clean OOP design.
+
+
+🔗 Code Link: 
+[👉 Day 16 – Scenario-Based OOPS Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
 
 # Week 3: Data Structures & Algorithm
 ## 📅 Day 1 – Data Structures & Algorithms: Linked List
@@ -799,6 +814,36 @@ Focused on applying sorting techniques according to practical constraints and pe
 
 🔗 Code Link:
 [👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+## 📅 Day 11 – DSA Scenario-Based Practice
+Date: 17-01-2026
+
+Practiced real-world DSA scenarios focusing on selecting the right sorting algorithm based on data size and behavior.
+
+Used Bubble Sort in IceCreamRush for sorting a small list of ice cream flavors by sales.
+
+Applied Insertion Sort in SmartLibrary and ArtExpo for dynamic, nearly sorted data with real-time insertions.
+
+Implemented Merge Sort in FleetManager to merge sorted vehicle mileage lists from multiple depots efficiently.
+
+Focused on applying sorting techniques according to practical constraints and performance needs.
+
+🔗 Code Link: 👉 Day 10 – DSA Scenario-Based Practice
+
+## 📅 Day 12 – DSA: Scenario-Based Sorting
+(Date: 19-January-2026)
+
+→ Solved scenario-based DSA problems using sorting algorithms.
+
+→ Implemented EduResults (Merge Sort) for stable rank list generation.
+
+→ Implemented FlashDealz (Quick Sort) for large-scale product sorting.
+
+→ Implemented FitnessTracker (Bubble Sort) for small, frequently updated rankings.
+
+→ Organized solutions in the DSA practice branch.
+
+🔗 Code Link: 👉 Day 10 – DSA Scenario-Based Practice
 
 # Week 4: Java Collections
 
