@@ -26,6 +26,22 @@ Organized all programs under the Java Collections module with clean, readable co
 🔗 Code Link: 
 [👉 Day 2 – Java Collections Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/generics)
 
+## 📅 Day 3 – Java File Handling & I/O Streams
+(Date: 21-01-2026) (Focus: File Handling, Buffered Streams, Serialization & Advanced I/O)
+
+Studied Java File Handling and I/O Streams to understand how Java reads and writes data using byte and character streams.
+
+Learned the difference between basic file streams and buffered streams, and how buffering improves performance for large file operations.
+
+Practiced reading user input from the console and writing structured data into files using reader and writer classes.
+
+Explored object serialization and deserialization to store and retrieve Java objects using ObjectInputStream and ObjectOutputStream.
+
+Worked with ByteArray streams, data streams, piped streams, and large-file processing to handle real-world I/O scenarios efficiently.
+
+🔗 Code Link: 
+[👉 Day 3 – Java File Handling & Streams Practice](http://github.com/AnujDwivedi01/BridgeLabz-Training/blob/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams/FileCopyComprasion.java)
+
 
 
 
