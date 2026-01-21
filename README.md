@@ -207,7 +207,7 @@ Implemented Merge Sort in FleetManager to merge sorted vehicle mileage lists fro
 Focused on applying sorting techniques according to practical constraints and performance needs.
 
 🔗 Code Link: 
-[👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+[👉 Day 11 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
 ## 📅 Day 12 – DSA: Scenario-Based Sorting
 (Date: 19-January-2026)
@@ -223,7 +223,7 @@ Focused on applying sorting techniques according to practical constraints and pe
 → Organized solutions in the DSA practice branch.
 
 🔗 Code Link: 
-[👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+[👉 Day 12 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
 ## 📅 Day 13 – Data Structures: Sorting Algorithms
 (Date: 20-01-2026)
@@ -237,5 +237,17 @@ Used Quick Sort in GamerZone to rank large, dynamic player score data quickly.
 Focused on choosing the right sorting algorithm based on data size and performance needs.
 
 🔗 Code Link: 
-[👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+[👉 Day 13 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+# 📅 Day 14 – Data Structures: Sorting Algorithms
+(Date: 21-01-2026)
+
+Practiced Insertion Sort in TailorShop to maintain a nearly sorted list of clothing orders based on delivery deadlines with real-time updates.
+
+Applied Merge Sort in MedWarehouse to merge multiple sorted medicine inventories by expiry date, ensuring timely alerts for near-expiration items.
+
+Focused on selecting appropriate sorting algorithms for time-sensitive and real-world inventory scenarios, balancing performance and data size.
+
+🔗 Code Link: 
+[👉 Day 14 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
