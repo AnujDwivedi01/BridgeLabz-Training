@@ -828,7 +828,8 @@ Implemented Merge Sort in FleetManager to merge sorted vehicle mileage lists fro
 
 Focused on applying sorting techniques according to practical constraints and performance needs.
 
-🔗 Code Link: 👉 Day 10 – DSA Scenario-Based Practice
+🔗 Code Link:
+[👉 Day 11 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
 ## 📅 Day 12 – DSA: Scenario-Based Sorting
 (Date: 19-January-2026)
@@ -843,7 +844,34 @@ Focused on applying sorting techniques according to practical constraints and pe
 
 → Organized solutions in the DSA practice branch.
 
-🔗 Code Link: 👉 Day 10 – DSA Scenario-Based Practice
+🔗 Code Link:
+[👉 Day 12 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+## 📅 Day 13 – Data Structures: Sorting Algorithms
+(Date: 20-01-2026)
+
+Practiced Insertion Sort using MovieTime for real-time, nearly sorted showtime data.
+
+Applied Merge Sort in FoodFest to combine multiple sorted footfall records efficiently.
+
+Used Quick Sort in GamerZone to rank large, dynamic player score data quickly.
+
+Focused on choosing the right sorting algorithm based on data size and performance needs.
+
+🔗 Code Link:
+[👉 Day 10 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
+
+## 📅 Day 14 – Data Structures: Sorting Algorithms
+(Date: 21-01-2026)
+
+Practiced Insertion Sort in TailorShop to maintain a nearly sorted list of clothing orders based on delivery deadlines with real-time updates.
+
+Applied Merge Sort in MedWarehouse to merge multiple sorted medicine inventories by expiry date, ensuring timely alerts for near-expiration items.
+
+Focused on selecting appropriate sorting algorithms for time-sensitive and real-world inventory scenarios, balancing performance and data size.
+
+🔗 Code Link:
+[👉 Day 14 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
 # Week 4: Java Collections
 
@@ -872,6 +900,23 @@ Organized all programs under the Java Collections module with clean, readable co
 
 🔗 Code Link: 
 [👉 Day 2 – Java Collections Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/listinterface)
+
+## 📅 Day 3 – Java File Handling & I/O Streams
+(Date: 21-01-2026) (Focus: File Handling, Buffered Streams, Serialization & Advanced I/O)
+
+Studied Java File Handling and I/O Streams to understand how Java reads and writes data using byte and character streams.
+
+Learned the difference between basic file streams and buffered streams, and how buffering improves performance for large file operations.
+
+Practiced reading user input from the console and writing structured data into files using reader and writer classes.
+
+Explored object serialization and deserialization to store and retrieve Java objects using ObjectInputStream and ObjectOutputStream.
+
+Worked with ByteArray streams, data streams, piped streams, and large-file processing to handle real-world I/O scenarios efficiently.
+
+
+🔗 Code Link: 
+[👉 Day 3 – Java File Handling & Streams Practice](http://github.com/AnujDwivedi01/BridgeLabz-Training/blob/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams/FileCopyComprasion.java)
 
 
 
