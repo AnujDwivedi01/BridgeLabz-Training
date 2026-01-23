@@ -918,6 +918,30 @@ Worked with ByteArray streams, data streams, piped streams, and large-file proce
 🔗 Code Link: 
 [👉 Day 3 – Java File Handling & Streams Practice](http://github.com/AnujDwivedi01/BridgeLabz-Training/blob/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams/FileCopyComprasion.java)
 
+## 📅 Day 4 – Java Exception Handling
+Date: 22-01-2026 Focus: Checked & Unchecked Exceptions, Custom Exceptions
+
+Worked on Java Exception Handling concepts to understand how applications handle runtime errors safely.
+
+Learned the difference between checked and unchecked exceptions, and practiced using try, catch, finally, throw, and throws.
+
+Solved multiple scenario-based problems involving arithmetic errors, null handling, and custom exception creation.
+
+Focused on writing clean exception-handling logic, meaningful error messages, and understanding exception flow.
+
+🔗 Code Link: 👉 Day 4 – Java Exceptions(https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/exceptions)
+
+## 📅 Day 5 – Regex & JUnit Testing
+Date: 23-01-2026 Focus: Regular Expressions, JUnit Basics
+
+Worked on regular expression (regex) concepts to validate, extract, and modify strings using pattern matching.
+
+Practiced writing regex for common scenarios like input validation, data extraction, and string replacement.
+
+Understood JUnit testing concepts, including writing unit test cases, using assertions, and testing exception handling to verify application logic.
+
+🔗 Code Link: 👉 Day 5 – Regular Expressions, JUnit Basics (https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/regex)
+
 
 
 
