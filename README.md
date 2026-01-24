@@ -73,6 +73,22 @@ Understood JUnit testing concepts, including writing unit test cases, using asse
 [👉 Day 5 – Regular Expressions, JUnit Basics](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/junit)
 (https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/regex)
 
+## 📅 Day 6 – Java Reflection API & Annotations
+
+Date: 24-01-2026
+Focus: Reflection API, Built-in & Custom Annotations
+
+Worked on Java Reflection API to inspect classes, methods, fields, and constructors at runtime, enabling dynamic object creation, method invocation, and field manipulation.
+
+Practiced accessing and modifying private and static members, invoking methods dynamically, and generating object metadata using reflection.
+
+Explored Java Annotations, including built-in annotations (@Override, @Deprecated, @SuppressWarnings) and created custom annotations for validation, logging, role-based access control, execution-time tracking, and task management.
+
+Implemented annotation processing using reflection to build mini frameworks such as custom validators, logging handlers, dependency injection, and access control mechanisms.
+
+🔗 Code Link:
+[👉 Day 5 – Java Reflection API & Annotations](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/annotations)
+
 
 
 
