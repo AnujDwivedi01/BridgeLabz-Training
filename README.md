@@ -251,3 +251,21 @@ Focused on selecting appropriate sorting algorithms for time-sensitive and real-
 🔗 Code Link: 
 [👉 Day 14 – DSA Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase)
 
+## 📅 Day 15 – Data Structures: Binary Search Tree (BST)
+
+(Date: 22-01-2026)
+
+Practiced Binary Search Tree (BST) using real-world scenarios to understand efficient insertion, deletion, searching, and sorted data retrieval.
+
+Implemented BST for a University Digital Record System to manage student records by roll number, supporting enrollment, removal, and sorted attendance lists.
+
+Applied BST in an E-Commerce Product Inventory to enable fast SKU-based lookup, price updates, and sorted product display.
+
+Explored BST in a Music App to search tracks by ID, insert new songs, and display playlists alphabetically using in-order traversal.
+
+🔗 Code Link:
+[👉 Day 15 – BST Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based-codebase/DSAScenarioBasedPractice/src/com/tree)
+
+
+
+
