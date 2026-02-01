@@ -1100,6 +1100,28 @@ Improved code readability and maintainability using modern Java 8 features.
 🔗 Code Link:
 [👉 Java Stream API Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streamapi)
 
+## 📅 Day 3 – Java Collectors Practice
+
+(Date: 31-01-2026)
+
+Practiced Java 8 Collectors API by solving focused, real-world problems.
+
+Worked on:
+
+Grouping students by grade and collecting names using Collectors.groupingBy()
+
+Counting word frequency in a paragraph using Collectors.toMap()
+
+Summing order revenue per customer using Collectors.summingDouble()
+
+Calculating average salary per department using Collectors.groupingBy() with averagingDouble()
+
+Generating book statistics (total, average, max pages) per genre using Collectors.summarizingInt()
+
+Improved understanding of grouping, aggregation, and downstream collectors.
+
+🔗 Code Link:
+[👉 Java Collectors Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
 
 
 
