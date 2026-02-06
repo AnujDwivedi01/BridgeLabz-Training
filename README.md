@@ -42,3 +42,25 @@ Focused on writing loosely coupled, extensible, and testable code following indu
 
 🔗 Code Link: 
 [👉 Day 1 – Java Design Principles & Design Patterns Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase)
+
+## 📅 Day 2 – Java Multithreading
+Date: 04-02-2026  Focus: Concurrent Programming & Thread Management in Java
+
+Studied Java Multithreading to understand concurrent execution and improve application performance.
+
+Learned the thread lifecycle and different ways to create threads using Thread, Runnable, and Callable.
+
+Practiced synchronization using synchronized methods/blocks and understood thread safety concepts.
+
+Explored inter-thread communication using wait(), notify(), and notifyAll().
+
+Learned about common concurrency problems such as race conditions and deadlocks.
+
+Introduced thread pools using ExecutorService for efficient task execution.
+
+Understood Daemon Threads and basic utilities from java.util.concurrent.
+
+Applied practical examples to write safe and efficient multithreaded code following Java best practices.
+
+🔗 Code Link: 
+[👉 Day 2 – Java Multithreading Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaMultithreadingPractice/src)
