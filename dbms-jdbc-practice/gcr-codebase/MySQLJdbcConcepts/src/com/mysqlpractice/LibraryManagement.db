@@ -1,0 +1,122 @@
+/*
+Exercise 3: Advanced Features
+Build a library management system with:
+• Book inventory
+• Student borrowing records
+• Fine calculation
+• Search functionality with multiple filters
+*/
+
+1 -> Book inventory
+
+ CREATE TABLE books (
+    book_id INT PRIMARY KEY,
+    title VARCHAR(150),
+    author VARCHAR(100),
+    category VARCHAR(50),
+    total_copies INT,
+    available_copies INT
+);
+ 
+ 
+INSERT INTO books VALUES
+(1, 'Clean Code', 'Robert Martin', 'Programming', 5, 5),
+(2, 'Effective Java', 'Joshua Bloch', 'Programming', 4, 4),
+(3, 'Database System Concepts', 'Silberschatz', 'Database', 3, 3);
+ 
+ 
+ CREATE TABLE students (
+    student_id INT PRIMARY KEY,
+    student_name VARCHAR(100)
+);
+ 
+ 
+ INSERT INTO students VALUES
+(201, 'Anuj'),
+(202, 'Rahul'),
+(203, 'Sneha');
+ 
+ 2 ->  Student borrowing records
+ 
+ CREATE TABLE borrow_records (
+    record_id INT AUTO_INCREMENT PRIMARY KEY,
+    student_id INT,
+    book_id INT,
+    borrow_date DATE,
+    return_date DATE
+);
+ 
+INSERT INTO borrow_records (student_id, book_id, borrow_date)
+VALUES (201, 1, CURDATE());
+ 
+UPDATE books
+SET available_copies = available_copies - 1
+WHERE book_id = 1;
+ 
+ SELECT * FROM students;
++------------+--------------+
+| student_id | student_name |
++------------+--------------+
+|        201 | Anuj         |
+|        202 | Rahul        |
+|        203 | Sneha        |
++------------+--------------+
+
+SELECT * FROM borrow_records;
++-----------+------------+---------+-------------+-------------+
+| record_id | student_id | book_id | borrow_date | return_date |
++-----------+------------+---------+-------------+-------------+
+|         1 |        201 |       1 | 2026-02-09  | NULL        |
++-----------+------------+---------+-------------+-------------+
+
+3 -> Fine calculation
+
+SELECT
+    record_id,
+    student_id,
+    book_id,
+    GREATEST(DATEDIFF(CURDATE(), borrow_date) - 7, 0) * 10 AS fine_amount
+FROM borrow_records
+WHERE return_date IS NULL;
+
+
++-----------+------------+---------+-------------+
+| record_id | student_id | book_id | fine_amount |
++-----------+------------+---------+-------------+
+|         1 |        201 |       1 |           0 |
++-----------+------------+---------+-------------+
+
+4 -> Search functionality with multiple filters
+
+SELECT *
+     FROM books
+     WHERE title LIKE '%Java%'
+     AND author LIKE '%Bloch%';
++---------+----------------+--------------+-------------+--------------+------------------+
+| book_id | title          | author       | category    | total_copies | available_copies |
++---------+----------------+--------------+-------------+--------------+------------------+
+|       2 | Effective Java | Joshua Bloch | Programming |            4 |                4 |
++---------+----------------+--------------+-------------+--------------+------------------+
+1 row in set (0.03 sec)
+
+SELECT *
+     FROM books
+     WHERE category = 'Programming'
+     AND available_copies > 0;
++---------+----------------+---------------+-------------+--------------+------------------+
+| book_id | title          | author        | category    | total_copies | available_copies |
++---------+----------------+---------------+-------------+--------------+------------------+
+|       1 | Clean Code     | Robert Martin | Programming |            5 |                5 |
+|       2 | Effective Java | Joshua Bloch  | Programming |            4 |                4 |
++---------+----------------+---------------+-------------+--------------+------------------+
+
+SELECT *
+     FROM books
+     WHERE author LIKE '%Martin%'
+     AND category = 'Programming';
++---------+------------+---------------+-------------+--------------+------------------+
+| book_id | title      | author        | category    | total_copies | available_copies |
++---------+------------+---------------+-------------+--------------+------------------+
+|       1 | Clean Code | Robert Martin | Programming |            5 |                5 |
++---------+------------+---------------+-------------+--------------+------------------+
+
