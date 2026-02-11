@@ -21,3 +21,27 @@ Focused on writing efficient, consistent, and reliable SQL queries following dat
 
 🔗 Code: 
 [👉 Day 1 – MySQL Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/MySQLJdbcConcepts/src)
+
+## 📅 Day 2 – JDBC & MySQL Integration
+
+Date: 10-02-2026
+
+Connected Java application to MySQL using JDBC and implemented complete CRUD operations.
+
+Established database connection using DriverManager and Connection, and executed SQL queries with PreparedStatement to ensure security and prevent SQL injection.
+
+Performed:
+
+INSERT – Add records
+
+SELECT – Fetch records
+
+UPDATE – Modify records
+
+DELETE – Remove records
+
+Also handled exceptions properly and followed clean coding practices for reliable database operations.
+
+🔗 Code: 
+[👉 Day 1 - JDBC + MySQL CRUD Implementation](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/JDBCPractice/src/main/java/com/jdbc/crudoperationpractice)
+
