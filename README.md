@@ -45,3 +45,23 @@ Also handled exceptions properly and followed clean coding practices for reliabl
 🔗 Code: 
 [👉 Day 1 - JDBC + MySQL CRUD Implementation](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/JDBCPractice/src/main/java/com/jdbc/crudoperationpractice)
 
+
+## 📅 Day 3 – Database & JDBC: Scenario-Based Practice
+(Date: 12-02-2026 ) (Focus: Real-World Hospital Management System Using SQL & JDBC)
+
+Worked on a comprehensive Hospital Management System covering patient, doctor, appointment, visit, billing, and administration workflows.
+
+Applied CRUD operations using SQL to manage patients, doctors, specialties, appointments, and medical records.
+
+Used JOIN queries, subqueries, and aggregate functions to retrieve visit history, doctor availability, billing summaries, and revenue reports.
+
+Implemented transactions (COMMIT/ROLLBACK) to ensure data consistency during booking, rescheduling, visit recording, and payments.
+
+Practiced PreparedStatements for SQL injection prevention, batch operations for bulk inserts, and indexes for performance optimization.
+
+Explored advanced database concepts like foreign keys, triggers for audit logging, metadata usage, and connection pooling.
+
+🔗 Code Link: 
+[👉 Day 3 – JDBC & Database Scenario-Based Practice](https://github.com/AnujDwivedi01/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase)
+
+
