@@ -1,0 +1,114 @@
+USE mysql_jdbc_practice;
+
+CREATE TABLE as_patients (
+    patient_id INT AUTO_INCREMENT PRIMARY KEY,
+    patient_name VARCHAR(50),
+    phone VARCHAR(15)
+);
+
+INSERT INTO as_patients (patient_name, phone) VALUES
+('Amit Verma', '9000000001'),
+('Riya Sharma', '9000000002');
+
+
+CREATE TABLE as_doctors (
+    doctor_id INT AUTO_INCREMENT PRIMARY KEY,
+    doctor_name VARCHAR(50),
+    max_daily_slots INT
+);
+
+INSERT INTO as_doctors (doctor_name, max_daily_slots) VALUES
+('Dr. Anil Kumar', 5),
+('Dr. Sunita Jain', 4);
+
+CREATE TABLE as_appointments (
+    appointment_id INT AUTO_INCREMENT PRIMARY KEY,
+    patient_id INT,
+    doctor_id INT,
+    appointment_date DATE,
+    appointment_time TIME,
+    status VARCHAR(20)
+);
+
+CREATE TABLE as_appointment_audit (
+    audit_id INT AUTO_INCREMENT PRIMARY KEY,
+    appointment_id INT,
+    action VARCHAR(20),
+    action_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+
+SELECT COUNT(*) AS slot_count
+FROM as_appointments
+WHERE doctor_id = 1
+AND appointment_date = '2026-03-01'
+AND appointment_time = '10:00:00'
+AND status = 'SCHEDULED';
+
++------------+
+| slot_count |
++------------+
+|          0 |
++------------+
+
+INSERT INTO as_appointments
+(patient_id, doctor_id, appointment_date, appointment_time, status)
+VALUES (1, 1, '2026-03-01', '10:00:00', 'SCHEDULED');
+
+
+SELECT
+    ->     appointment_time,
+    ->     COUNT(*) AS booked_slots
+    -> FROM as_appointments
+    -> WHERE doctor_id = 1
+    -> AND appointment_date = '2026-03-01'
+    -> AND status = 'SCHEDULED'
+    -> GROUP BY appointment_time;
++------------------+--------------+
+| appointment_time | booked_slots |
++------------------+--------------+
+| 10:00:00         |            1 |
++------------------+--------------+
+
+START TRANSACTION;
+
+UPDATE as_appointments
+SET status = 'CANCELLED'
+WHERE appointment_id = 1;
+
+INSERT INTO as_appointment_audit
+(appointment_id, action)
+VALUES (1, 'CANCELLED');
+
+COMMIT;
+
+
+SELECT COUNT(*)
+    -> FROM as_appointments
+    -> WHERE doctor_id = 2
+    -> AND appointment_date = '2026-03-02'
+    -> AND appointment_time = '11:00:00'
+    -> AND status = 'SCHEDULED';
++----------+
+| COUNT(*) |
++----------+
+|        0 |
++----------+-
+
+SELECT
+    ->     a.appointment_time,
+    ->     p.patient_name,
+    ->     d.doctor_name,
+    ->     a.status
+    -> FROM as_appointments a
+    -> JOIN as_patients p ON a.patient_id = p.patient_id
+    -> JOIN as_doctors d ON a.doctor_id = d.doctor_id
+    -> WHERE a.appointment_date = '2026-03-01'
+    -> ORDER BY a.appointment_time;
++------------------+--------------+----------------+-----------+
+| appointment_time | patient_name | doctor_name    | status    |
++------------------+--------------+----------------+-----------+
+| 10:00:00         | Amit Verma   | Dr. Anil Kumar | CANCELLED |
++------------------+--------------+----------------+-----------+
+
+
